@@ -48,7 +48,17 @@ button.normal{
     outline: none;
     transition: 0.2s;
 }
-
+button.white{
+    font-size: 13px;
+    font-weight: 600;
+    padding: 11px 18px;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s;
+}
 body {
     width: 100%;
 }
