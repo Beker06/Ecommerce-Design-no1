@@ -44,3 +44,15 @@
 .bag-icon{
     width: 20px;
 }
+.close-icon{
+    width: 20px;
+}
+#mobile{
+    display: none;
+    align-items: center;
+}
+#mobile .menu-icon{
+    width: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
