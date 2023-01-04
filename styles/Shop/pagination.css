@@ -1,0 +1,25 @@
+#pagination{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#pagination a{
+    display: flex;
+    width: 50px;
+    text-decoration: none;
+    background-color: #088178;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #ffffff;
+    margin: 0px 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#pagination img{
+    display: flex;
+    width: 25px;
+    margin: 0 10px;
+}
