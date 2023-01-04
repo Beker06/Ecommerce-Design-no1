@@ -45,14 +45,19 @@
     width: 20px;
 }
 .close-icon{
+    display: none;
     width: 20px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    cursor: pointer;
 }
 #mobile{
     display: none;
     align-items: center;
 }
 #mobile .menu-icon{
-    width: 30px;
+    width: 22px;
     margin-left: 20px;
     cursor: pointer;
 }
