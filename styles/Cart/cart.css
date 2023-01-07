@@ -1,0 +1,17 @@
+#cart table{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+}
+#cart table img{
+    width: 70px;
+}
+#cart table tbody tr td a{
+    display: flex;
+    justify-content: center;
+}
+#cart table tbody tr td a .close-icon-cart{
+    width: 20px;
+    margin-right: 50%;
+}
